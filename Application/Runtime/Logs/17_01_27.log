@@ -1,0 +1,1888 @@
+[ 2017-01-27T21:02:08+08:00 ] ::1 /wish/index.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001568s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013330s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013524s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000659s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000813s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000922s ]
+
+[ 2017-01-27T21:04:39+08:00 ] ::1 /wish/index.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001330s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] ucfirst() expects parameter 1 to be string, array given C:\wamp\www\wish\ThinkPHP\Library\Think\Storage.class.php 第 36 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.025673s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025865s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000579s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000687s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2017-01-27T21:04:40+08:00 ] ::1 /wish/index.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001405s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] ucfirst() expects parameter 1 to be string, array given C:\wamp\www\wish\ThinkPHP\Library\Think\Storage.class.php 第 36 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.000670s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000809s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000491s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000597s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000859s ]
+
+[ 2017-01-27T21:04:42+08:00 ] ::1 /wish/index.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] ucfirst() expects parameter 1 to be string, array given C:\wamp\www\wish\ThinkPHP\Library\Think\Storage.class.php 第 36 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.000720s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000847s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000486s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000659s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000775s ]
+
+[ 2017-01-27T21:04:52+08:00 ] ::1 /wish/index.php/Home
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001269s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] ucfirst() expects parameter 1 to be string, array given C:\wamp\www\wish\ThinkPHP\Library\Think\Storage.class.php 第 36 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.001341s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001534s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000594s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000709s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000832s ]
+
+[ 2017-01-27T21:05:46+08:00 ] ::1 /wish/index.php/Home
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001382s ]
+ERR: 模板不存在:./Application/Home/View/Index/index.html
+
+[ 2017-01-27T21:06:28+08:00 ] ::1 /wish/index.php/Home
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002750s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000225s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.024825s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024998s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000477s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000824s ]
+
+[ 2017-01-27T21:06:51+08:00 ] ::1 /wish/index.php/Home
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001300s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000134s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000342s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010384s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010539s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000649s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000745s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000869s ]
+
+[ 2017-01-27T21:14:29+08:00 ] ::1 /wish/index.php/Home
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001397s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000204s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008681s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008817s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000559s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000694s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000803s ]
+
+[ 2017-01-27T21:16:09+08:00 ] ::1 /wish/index.php/Home
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.008151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018582s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000218s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.041905s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042102s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.006913s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.013555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013684s ]
+
+[ 2017-01-27T21:16:23+08:00 ] ::1 /wish/index.php/Home
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002556s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000410s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.021819s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022881s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000835s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001237s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002422s ]
+
+[ 2017-01-27T21:16:57+08:00 ] ::1 /wish/index.php/Home
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001798s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000215s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006537s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006690s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000474s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000591s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000707s ]
+
+[ 2017-01-27T21:17:09+08:00 ] ::1 /wish/index.php/Home
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001733s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007819s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008016s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000596s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000717s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000762s ]
+
+[ 2017-01-27T21:18:06+08:00 ] ::1 /wish/index.php/Home
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009884s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000132s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003839s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.017143s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017372s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.004598s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005771s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.009649s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009961s ]
+
+[ 2017-01-27T21:18:07+08:00 ] ::1 /wish/index.php/Home
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002274s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006891s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007090s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000544s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000660s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000619s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000733s ]
+
+[ 2017-01-27T21:19:17+08:00 ] ::1 /wish/index.php/Home
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002756s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008509s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008740s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000928s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001131s ]
+
+[ 2017-01-27T21:19:19+08:00 ] ::1 /wish/index.php/Home/Index/wish?username=&content=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001393s ]
+ERR: 没有定义数据库配置
+
+[ 2017-01-27T21:20:28+08:00 ] ::1 /wish/index.php/Home/Index/wish?username=&content=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001965s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005915s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 12 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000287s ]
+ERR: 模板不存在:./Application/Home/View/Index/wish.html
+
+[ 2017-01-27T21:20:30+08:00 ] ::1 /wish/index.php/Home/Index/wish?username=&content=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002535s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.003854s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 12 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000315s ]
+ERR: 模板不存在:./Application/Home/View/Index/wish.html
+
+[ 2017-01-27T21:21:19+08:00 ] ::1 /wish/index.php/Home/Index/wish?username=&content=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001570s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.003511s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 12 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000199s ]
+ERR: 模板不存在:./Application/Home/View/Index/wish.html
+
+[ 2017-01-27T21:25:43+08:00 ] ::1 /wish/index.php/Home
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002750s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005110s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000249s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000199s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000386s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007271s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007506s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000722s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000881s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000883s ]
+
+[ 2017-01-27T21:25:46+08:00 ] ::1 /wish/index.php/Home/Index/wish
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001208s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004692s ]
+SQL: INSERT INTO `wish` (`name`,`content`) VALUES ('','') [ RunTime:0.090734s ]
+
+[ 2017-01-27T21:25:46+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001156s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.036337s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000251s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000218s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007848s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008039s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000676s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000877s ]
+
+[ 2017-01-27T21:26:33+08:00 ] ::1 /wish/index.php/Home/Index/wish
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.008031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018388s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004673s ]
+SQL: INSERT INTO `wish` (`name`,`content`) VALUES ('','') [ RunTime:0.075813s ]
+
+[ 2017-01-27T21:26:33+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001252s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004017s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000280s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.165661s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.165810s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.029330s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.029462s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.013608s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013741s ]
+
+[ 2017-01-27T21:28:20+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002607s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.003999s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000312s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000347s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.106010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.106155s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.016866s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016999s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.013821s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014002s ]
+
+[ 2017-01-27T21:28:23+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001721s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.006010s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000272s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007707s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007912s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000686s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000847s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000683s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000796s ]
+
+[ 2017-01-27T21:28:28+08:00 ] ::1 /wish/index.php/Home/Index/wish
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001257s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.006389s ]
+SQL: INSERT INTO `wish` (`name`,`content`) VALUES ('','') [ RunTime:0.050816s ]
+
+[ 2017-01-27T21:28:28+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001315s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005234s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000293s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000208s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008751s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000499s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000672s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000805s ]
+
+[ 2017-01-27T21:29:07+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001296s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004110s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000338s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009320s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009467s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000494s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000649s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000786s ]
+
+[ 2017-01-27T21:29:47+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001423s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005080s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000995s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008676s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008915s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000539s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000660s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000808s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000979s ]
+
+[ 2017-01-27T21:29:49+08:00 ] ::1 /wish/index.php/Home/Index/Index/wish
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001730s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.003981s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000301s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009884s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010057s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000640s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000742s ]
+
+[ 2017-01-27T21:30:09+08:00 ] ::1 /wish/index.php/Home/Index/Index/wish
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002271s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.006954s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000254s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008174s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008307s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001613s ]
+
+[ 2017-01-27T21:33:00+08:00 ] ::1 /wish/index.php/Home/Index/Index/wish
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001293s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005135s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000262s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000203s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007596s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007814s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000797s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000962s ]
+
+[ 2017-01-27T21:33:06+08:00 ] ::1 /wish/index.php/Home/Index/Index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002441s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.003646s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000432s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.019142s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.054147s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054347s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000677s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000868s ]
+
+[ 2017-01-27T21:33:07+08:00 ] ::1 /wish/index.php/Home/Index/Index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002936s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004626s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000577s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000326s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012379s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012745s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000759s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000963s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001023s ]
+
+[ 2017-01-27T21:33:11+08:00 ] ::1 /wish/index.php/Home/Index/Index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001346s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.003888s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000246s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009133s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000617s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000722s ]
+
+[ 2017-01-27T21:34:21+08:00 ] ::1 /wish/index.php/Home/Index/Index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001643s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004418s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.001142s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000209s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007911s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008081s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000680s ]
+
+[ 2017-01-27T21:34:24+08:00 ] ::1 /wish/index.php/Home/Index/Index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002469s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.003638s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000264s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010428s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010567s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000468s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000612s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000721s ]
+
+[ 2017-01-27T21:34:26+08:00 ] ::1 /wish/index.php/Home/Index/Index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002307s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.007816s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000423s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000367s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011315s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011509s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000648s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000808s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000820s ]
+
+[ 2017-01-27T21:34:29+08:00 ] ::1 /wish/index.php/Home/Index/wish
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001465s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004474s ]
+SQL: INSERT INTO `wish` (`name`,`content`) VALUES ('','') [ RunTime:0.041778s ]
+
+[ 2017-01-27T21:34:29+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001510s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.012931s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000278s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008127s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008267s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000513s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000637s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000807s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000928s ]
+
+[ 2017-01-27T21:35:34+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002670s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000245s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000316s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009186s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009348s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001035s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000711s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000839s ]
+
+[ 2017-01-27T21:36:09+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001310s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.003686s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000319s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008619s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008759s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000491s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000741s ]
+
+[ 2017-01-27T21:36:28+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003314s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005870s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000290s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000216s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010226s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000773s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000989s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001243s ]
+
+[ 2017-01-27T21:39:05+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001715s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004346s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000354s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000314s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012436s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012637s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000653s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000774s ]
+
+[ 2017-01-27T21:39:06+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001770s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004099s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000305s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011157s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011306s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000420s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000658s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000793s ]
+
+[ 2017-01-27T21:39:06+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001682s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.003832s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000397s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008418s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008554s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000554s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000705s ]
+
+[ 2017-01-27T21:39:30+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001102s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004482s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000282s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000224s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010755s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010903s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000446s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000722s ]
+
+[ 2017-01-27T21:43:29+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001356s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005188s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000254s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000214s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 40 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010945s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011108s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000840s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001125s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001015s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001313s ]
+
+[ 2017-01-27T21:43:56+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001491s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.003536s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000270s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 40 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011307s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011435s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000518s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000738s ]
+
+[ 2017-01-27T21:44:14+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001918s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004049s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000288s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000243s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 30 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009547s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009765s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001240s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002095s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000931s ]
+
+[ 2017-01-27T21:48:10+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002498s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005442s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000440s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000214s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013642s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013809s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000617s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000817s ]
+
+[ 2017-01-27T21:48:50+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001530s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004532s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000269s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000295s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010297s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010426s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000743s ]
+
+[ 2017-01-27T21:49:51+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002196s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.026368s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000308s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009077s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009204s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000490s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000583s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000703s ]
+
+[ 2017-01-27T21:50:15+08:00 ] ::1 /wish/index.php/Home/Index/Index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001802s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005036s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000408s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013195s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000836s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001046s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001212s ]
+
+[ 2017-01-27T21:50:16+08:00 ] ::1 /wish/index.php/Home/Index/Index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001164s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002539s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005557s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000321s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012773s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012947s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000611s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000779s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001163s ]
+
+[ 2017-01-27T21:50:25+08:00 ] ::1 /wish/index.php/Home/Index/Index/wish
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001638s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004069s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000257s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012516s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012634s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000449s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000664s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000774s ]
+
+[ 2017-01-27T21:51:36+08:00 ] ::1 /wish/index.php/Home/Index/Index/wish
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001356s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005153s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000462s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009341s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009482s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000585s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000695s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000732s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000842s ]
+
+[ 2017-01-27T21:52:52+08:00 ] ::1 /wish/index.php/Home/Index/Index/wish
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001676s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004329s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000309s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000317s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011340s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011565s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000417s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000603s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000724s ]
+
+[ 2017-01-27T21:53:22+08:00 ] ::1 /wish/index.php/Home/Index/Index/wish
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002193s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004092s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000494s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000216s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013299s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013491s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000808s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000967s ]
+
+[ 2017-01-27T21:53:24+08:00 ] ::1 /wish/index.php/Home/Index/Index/wish
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002151s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004214s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000313s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000129s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000356s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013913s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000505s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000684s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000810s ]
+
+[ 2017-01-27T21:54:23+08:00 ] ::1 /wish/index.php/Home/Index/Index/wish
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001102s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005075s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000456s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009139s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009295s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000709s ]
+
+[ 2017-01-27T21:54:28+08:00 ] ::1 /wish/index.php/Home/Index/Index/wish
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001860s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004216s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000330s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000320s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013046s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013194s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000590s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000587s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000705s ]
+
+[ 2017-01-27T21:54:31+08:00 ] ::1 /wish/index.php/Home/Index/Index/wish
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002215s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004468s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000395s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.011382s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011588s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000607s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000728s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000949s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001120s ]
+
+[ 2017-01-27T21:55:06+08:00 ] ::1 /wish/index.php/Home/Index/Index/wish
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001932s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.003572s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000223s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012367s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012520s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000464s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000698s ]
+
+[ 2017-01-27T21:55:24+08:00 ] ::1 /wish/index.php/Home/Index/Index/wish
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001513s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005346s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000262s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008832s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009144s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000805s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001028s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002315s ]
+
+[ 2017-01-27T21:55:36+08:00 ] ::1 /wish/index.php/Home/Index/wish
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001271s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.014150s ]
+SQL: INSERT INTO `wish` (`name`,`content`) VALUES ('Kris','zhuadsbj ') [ RunTime:0.116562s ]
+
+[ 2017-01-27T21:55:36+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001336s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.012443s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000435s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000216s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009332s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009453s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000567s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000801s ]
+
+[ 2017-01-27T22:15:26+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003206s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.008391s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000246s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000242s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013906s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014030s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000711s ]
+
+[ 2017-01-27T22:15:27+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003975s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.008472s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000515s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000387s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016518s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016725s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000691s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000806s ]
+
+[ 2017-01-27T22:15:30+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003282s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005790s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000517s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000209s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014195s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014650s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000729s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000881s ]
+
+[ 2017-01-27T22:15:47+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002531s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.009173s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000272s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000286s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014768s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000426s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000691s ]
+
+[ 2017-01-27T22:15:49+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002785s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.006459s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000534s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000982s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.022316s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022612s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000714s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000920s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000840s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001002s ]
+
+[ 2017-01-27T22:17:50+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002577s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.009897s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000335s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000503s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.015875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016120s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000578s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000740s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000861s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001014s ]
+
+[ 2017-01-27T22:17:52+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002699s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.007878s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000407s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000235s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016162s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016338s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000579s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000728s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001179s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001416s ]
+
+[ 2017-01-27T22:18:39+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001422s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005441s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000963s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000265s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016525s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000701s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000737s ]
+
+[ 2017-01-27T22:18:44+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003273s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.007049s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000888s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012244s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012546s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001685s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001938s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001791s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002076s ]
+
+[ 2017-01-27T22:19:08+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002829s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005548s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000322s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000644s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012936s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013100s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000591s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000753s ]
+
+[ 2017-01-27T22:19:30+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003051s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.004269s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000302s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000217s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013899s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000456s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000707s ]
+
+[ 2017-01-27T22:23:00+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002926s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.007203s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000266s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000310s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000555s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.015361s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015489s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000515s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000636s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000720s ]
+
+[ 2017-01-27T22:23:02+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003254s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005342s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000638s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000146s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000502s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.019032s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019319s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000940s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001173s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001514s ]
+
+[ 2017-01-27T22:23:05+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002350s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.008250s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000332s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000374s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.015352s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015535s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001398s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001627s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000943s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001201s ]
+
+[ 2017-01-27T22:26:05+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001419s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005449s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000644s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000203s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.012364s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012632s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001145s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001321s ]
+
+[ 2017-01-27T22:38:15+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002747s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.009028s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000521s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000139s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000789s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.017901s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018034s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000601s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000809s ]
+
+[ 2017-01-27T22:39:45+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005220s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000232s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000231s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 31 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.013770s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013907s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000775s ]
+
+[ 2017-01-27T22:40:17+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003086s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.006468s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000517s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000168s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000449s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.019531s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019746s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000803s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000925s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000955s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001090s ]
+
+[ 2017-01-27T22:41:08+08:00 ] ::1 /wish/index.php/Home/Index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.002776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005120s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\wish\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `wish` [ RunTime:0.005937s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in C:\wamp\www\wish\Application\Home\Controller\IndexController.class.php on line 8 and defined C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where C:\wamp\www\wish\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `wish`  [ RunTime:0.000876s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000346s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\wish\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 32 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016017s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016297s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001934s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001622s ]
+
